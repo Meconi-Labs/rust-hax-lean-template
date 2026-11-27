@@ -1,0 +1,1 @@
+# rust-hax-lean-template
