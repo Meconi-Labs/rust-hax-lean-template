@@ -1,0 +1,13 @@
+name = "RustHaxLeanTemplate"
+version = "0.1.0"
+defaultTargets = ["RustHaxLeanTemplate"]
+
+[[lean_lib]]
+name = "RustHaxLeanTemplate"
+roots = ["Proofs"]
+
+[[require]]
+name = "Hax"
+git = "https://github.com/cryspen/hax"
+rev = "main"
+subDir = "hax-lib/proof-libs/lean"

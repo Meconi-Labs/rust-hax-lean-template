@@ -1,0 +1,5 @@
+/target/
+**/target/
+proofs/lean/.lake/
+*.olean
+.DS_Store
